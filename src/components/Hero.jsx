@@ -126,7 +126,7 @@ function Hero({ language }) {
             allergens: {
                 title: "アレルゲン情報",
                 subtitle: "アレルギー情報",
-                description: "小麦・乳・卵・ごま・大豆など"
+                description: "小麦・乳・卵・ごま・大豆・鶏肉・牛肉・豚肉"
             },
 
             nutrition: {
