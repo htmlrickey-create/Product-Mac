@@ -258,7 +258,7 @@ function Hero({ language }) {
                     >
                         {couponUsed
                         ? (language === "jp" ? "クーポン解除" : "Remove Coupon")
-                        : (language === "jp" ? "クーポン使用" : "Use Coupon")}
+                        : (language === "jp" ? "クーポン使用後の値段推測" : "Use Coupon")}
                     </button>
 
                     <p className="price-note">
